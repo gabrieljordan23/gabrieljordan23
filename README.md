@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrieljordan23
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Cloud and some other stuff
 - 💞️ I’m looking to collaborate on some coding
 - 📫 How to reach me https://www.linkedin.com/in/gabriel-jordan-anchieta-arag%C3%A3o/
 - 😄 Pronouns: He/him
