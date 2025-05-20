@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @gabrieljordan23
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Java, Cloud and some other stuff
-- 💞️ I’m looking to collaborate on some coding
+- 👀 I’m interested in Machine Learning and Data Engineering
+- 🌱 I’m currently learning Machine Learning, Cloud and some other stuff
 - 📫 How to reach me https://www.linkedin.com/in/gabriel-jordan-anchieta-arag%C3%A3o/
-- ⚡ Fun fact: One day when I was a young kid I said I would never work with computers, and here I am coding at 3 am LOL.
 
 <!---
 gabrieljordan23/gabrieljordan23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
